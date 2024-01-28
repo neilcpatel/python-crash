@@ -22,6 +22,9 @@ This project was last setup using:
 ## Goal
 setup local environment, and confirm python runs hello world.
 
+##Hurdles
+Determining that there are 2 installations of gpg, and making sure to point to the one needed inorder for verified commit to work.
+
 ## Meta
 
 [https://github.com/neilcpatel/python-crash/wiki](https://github.com/neilcpatel/)
@@ -31,4 +34,3 @@ setup local environment, and confirm python runs hello world.
 [wiki]: https://github.com/neilcpatel/python-crash/wiki
 
 readme based from https://github.com/dbader/readme-template#readme
-testing commit
