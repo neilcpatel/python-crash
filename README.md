@@ -22,7 +22,7 @@ This project was last setup using:
 ## Goal
 setup local environment, and confirm python runs hello world.
 
-##Hurdles
+## Hurdles
 Determining that there are 2 installations of gpg, and making sure to point to the one needed inorder for verified commit to work.
 
 ## Meta
