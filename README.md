@@ -15,6 +15,7 @@ This project was last setup using:
 * VS Code Extension: Pylance
 * VS Code Extension: Prettier - Code formatter
 * VS Code Extension: Black Formatter
+* Powershell 7.4.1
 * Node.js: 18.15.0
 * OS: Windows_NT x64 10.0.22621
 
@@ -30,4 +31,4 @@ setup local environment, and confirm python runs hello world.
 [wiki]: https://github.com/neilcpatel/python-crash/wiki
 
 readme based from https://github.com/dbader/readme-template#readme
-testing commits
+testing commit
