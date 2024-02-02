@@ -25,3 +25,15 @@ message = f"My first bicycle was a {first_owned.title()}"
 print(message)
 bicycles.remove("specialized")
 print(bicycles)
+
+bicycles = ["trek", "cannondale", "redline", "specialized"]
+print(bicycles)
+bicycles.sort()
+print(bicycles)
+bicycles.sort(reverse=True)
+print(bicycles)
+print(sorted(bicycles))
+print(sorted(bicycles, reverse=True))
+bicycles.reverse()
+print(bicycles)
+len(bicycles)
