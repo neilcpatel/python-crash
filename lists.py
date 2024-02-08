@@ -36,4 +36,8 @@ print(sorted(bicycles))
 print(sorted(bicycles, reverse=True))
 bicycles.reverse()
 print(bicycles)
-len(bicycles)
+print(len(bicycles))
+magicians = ["alex", "brian", "cara", "danica"]
+for magician in magicians:
+    print(f"{magician.title()}, that was a great trick!")
+    print(f"i can't wait til your next trick, {magician.title()}!")
